@@ -12,7 +12,7 @@ const Contact = () => {
         <a href="https://youtube.com/@rebelpandu9225?si=V14wxfFS1br5xxc1" target="_blank" rel="noreferrer">
           <FaYoutube className="hover:text-black" />
         </a>
-        <a href="https://wa.me/6300752269" target="_blank" rel="noreferrer">
+        <a href="https://wa.me/+916300752269" target="_blank" rel="noreferrer">
           <FaWhatsapp className="hover:text-black" />
         </a>
       </div>
