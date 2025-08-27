@@ -76,8 +76,8 @@ import React, { useEffect, useRef, useState } from "react";
 import { Heart, MessageCircle, Share2, Volume2, VolumeX, Play, Pause } from "lucide-react"; // icons
 
 const reels = [
-  { video: "/videos/r1.mp4", caption: "Chilling vibes ✨", user: "akhil_editz" },
-  { video: "/videos/r2.mp4", caption: "Nature at its best 🌿", user: "akhil_editz" },
+  { video: "/videos/r1.mp4", caption: "Chilling vibes ✨", user: "rebel_pandu_official" },
+  { video: "/videos/r2.mp4", caption: "Nature at its best 🌿", user: "rebel_pandu_official" },
 ];
 
 const Reels = () => {
