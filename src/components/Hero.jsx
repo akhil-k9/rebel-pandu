@@ -13,7 +13,7 @@ const Hero = () => {
         transition={{ duration: 1 }}
         className="text-3xl md:text-5xl font-extrabold text-white"
       >
-        rebel_pandu_official
+        <a href="https://instagram.com/rebel_pandu_official" style={{ textDecoration: 'none' }} target="_blank" rel="noreferrer">rebel_pandu_official</a>
       </motion.h1>
 
       <motion.p
